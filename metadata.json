@@ -1,0 +1,6 @@
+{
+  "name": "MersGestion",
+  "description": "Système de gestion centralisé pour centres de formation en allemand, incluant le suivi des étudiants, des paiements et de la progression pédagogique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
